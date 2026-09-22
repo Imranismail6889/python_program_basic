@@ -14,7 +14,7 @@ This repository contains beginner-level Python programs created while learning t
 8. Student Grade Calculator
 9. List Operations
 
-🎯 Learning Objectives
+Learning Objectives
 
 Through these programs, I am practicing:
 
@@ -28,7 +28,7 @@ Through these programs, I am practicing:
 - Lists
 - Basic problem solving
 
-👨‍💻 About
+About
 
 This repository is part of my journey to learn Python programming and build a strong foundation for Data Structures, Artificial Intelligence and Machine Learning.
 
