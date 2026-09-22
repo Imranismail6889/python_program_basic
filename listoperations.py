@@ -1,0 +1,12 @@
+numbers = [10, 20, 30, 40, 50]
+print("Original List:", numbers)
+numbers.append(60)
+print("After append:", numbers)
+numbers.remove(30)
+print("After removing 30:", numbers)
+numbers.sort(reverse=True)
+print("Descending order:", numbers)
+print("Length of list:", len(numbers))
+print("Maximum value:", max(numbers))
+print("Minimum value:", min(numbers))
+print("Sum:", sum(numbers))
