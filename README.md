@@ -17,7 +17,6 @@ This repository contains beginner-level Python programs created while learning t
 Learning Objectives
 
 Through these programs, I am practicing:
-
 - Python syntax
 - Variables and data types
 - Input and output
